@@ -1,0 +1,10 @@
+{
+  "name": "profe-padel-workspace",
+  "private": true,
+  "scripts": {
+    "dev": "pnpm --dir \"actualizacion-avisos-whats-app-padel-coach demo\" dev",
+    "build": "pnpm --dir \"actualizacion-avisos-whats-app-padel-coach demo\" build",
+    "start": "pnpm --dir \"actualizacion-avisos-whats-app-padel-coach demo\" start"
+  },
+  "packageManager": "pnpm@12.3.4"
+}
